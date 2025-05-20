@@ -1,0 +1,33 @@
+body{
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.encabezado{
+    background-color: #4caf50;
+    color:white;
+    padding: 20px;
+    text-align: center;
+}
+.contenido{
+    display: flex;
+    padding:20px;
+}
+.menu{
+    background-color: #f4f4f4;
+    width: 30%;
+    padding: 15px;
+    border-right: 2px solid #ddd;
+}
+.principal{
+    background-color: #fff8dc;
+    width: 70%;
+    padding: 15px;
+}
+.pie{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+}
